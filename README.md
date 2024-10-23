@@ -1,7 +1,7 @@
 Primeramente se debe de descargar el proyecto, una vez que ya lo tiene solo se debe ejecutar el siguiente comando en la consola para instalar todo lo necesario para que funcione el proyecto:
 npm install
 
-Luego debe ingresar este comando para poder levantar el proyecto y poder verlo en su local a traves de la url que le mostrara luego de ejecutarlo:
+Luego debe ingresar este comando para poder levantar el proyecto y poder verlo en su local a traves de la url que le mostrara luego de ejecutarlo:\n
 npm run dev
 
 De que trata el proyecto:
